@@ -5,7 +5,7 @@
   "author": "Limon Monte <limon.monte@gmail.com> (https://limonte.github.io)",
   "license": "MIT",
   "devDependencies": {
-    "esbuild": "^0.8.53"
+    "esbuild": "^0.8.56"
   },
   "dependencies": {
     "react": "^17.0.0",
