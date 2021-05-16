@@ -5,12 +5,12 @@
   "author": "Limon Monte <limon.monte@gmail.com> (https://limonte.github.io)",
   "license": "MIT",
   "devDependencies": {
-    "esbuild": "^0.8.31"
+    "esbuild": "^0.11.22"
   },
   "dependencies": {
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
-    "sweetalert2": "^10.0.0",
+    "sweetalert2": "^11.0.0",
     "sweetalert2-react-content": "^3.0.0"
   },
   "scripts": {
